@@ -47,7 +47,7 @@ const EditProfile = () => {
     if (!user.fname || !user.lname || !user.email || !user.Status) {
       setErrors(validation(user));
     } else {
-      await axios.put("http://localhost:3002/users", user);
+      await axios.put(`http://localhost:3002/users/${id}`, user);
       history.push("/");
     }
   };

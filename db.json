@@ -1,9 +1,9 @@
 {
   "users": [
     {
-      "fname": "karan",
+      "fname": "Shyam",
       "lname": "Mishra",
-      "email": "karanmishra224@gmail.com",
+      "email": "shyam@gmail.com",
       "Status": "Trainee",
       "id": 1
     },
@@ -15,9 +15,9 @@
       "id": 2
     },
     {
-      "fname": "karan",
+      "fname": "Yogendra",
       "lname": "Mishra",
-      "email": "karanmishra224@gmail.com",
+      "email": "yog@gmail.com",
       "Status": "Trainee",
       "id": 5
     },
@@ -64,13 +64,6 @@
       "id": 11
     },
     {
-      "fname": "ki ",
-      "lname": "hal ",
-      "email": "chal@gnal.com",
-      "Status": "Currently-Interviewed",
-      "id": 12
-    },
-    {
       "fname": "Mr.Joshi",
       "lname": "Pravin",
       "email": "pravin@gmail.com",
@@ -90,6 +83,20 @@
       "email": "jaymmin@gmail.com",
       "Status": "Ex-Employee",
       "id": 16
+    },
+    {
+      "fname": "Ram",
+      "lname": "Sita",
+      "email": "jayshreeram@gmail.com",
+      "Status": "Employed",
+      "id": 17
+    },
+    {
+      "fname": "Jaayaram",
+      "lname": "Sharma",
+      "email": "jay@gmail.com",
+      "Status": "Employed",
+      "id": 18
     }
   ]
 }
