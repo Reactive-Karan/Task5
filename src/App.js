@@ -1,24 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
-
+import "./App.css";
+import "../node_modules/bootstrap/dist/css/bootstrap.css";
+import MainPage from "./components/MainPage";
+import Navbar from "./components/layout/Navbar";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
+import CreateProfile from "./components/CreateProfile";
+import ErrorPage from "./components/ErrorPage";
+import EditProfile from "./EditProfile";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <>
+        <Navbar />
+        <Switch>
+          <Route exact path="/" component={MainPage} />
+          <Route exact path="/users/CreateProfile" component={CreateProfile} />
+          <Route exact path="/users/EditProfile/:id" component={EditProfile} />
+          <Route component={ErrorPage} />
+        </Switch>
+      </>
+    </BrowserRouter>
   );
 }
 

@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "fname": "karan",
+      "lname": "Mishra",
+      "email": "karanmishra224@gmail.com",
+      "Status": "Trainee",
+      "id": 1
+    },
+    {
+      "fname": "Maya",
+      "lname": "Mishra",
+      "email": "karanmishra224@gmail.com",
+      "Status": "Currently-Interviewed",
+      "id": 2
+    },
+    {
+      "fname": "karan",
+      "lname": "Mishra",
+      "email": "karanmishra224@gmail.com",
+      "Status": "Trainee",
+      "id": 5
+    },
+    {
+      "fname": "karan",
+      "lname": "Mishra",
+      "email": "karanmishra224@gmail.com",
+      "Status": "Trainee",
+      "id": 6
+    },
+    {
+      "fname": "Himesh ",
+      "lname": "Reshamia",
+      "email": "suroor@gmail.com",
+      "Status": "Ex-Employee",
+      "id": 7
+    },
+    {
+      "fname": "Ranu",
+      "lname": "Mondal",
+      "email": "aaaah@gmail.com",
+      "Status": "Currently-Interviewed",
+      "id": 8
+    },
+    {
+      "fname": "karan",
+      "lname": "Mishra",
+      "email": "karanmishra224@gmail.com",
+      "Status": "Trainee",
+      "id": 9
+    },
+    {
+      "fname": "Durbin",
+      "lname": "Shah",
+      "email": "Durbin@gmail.com",
+      "Status": "Ex-Employee",
+      "id": 10
+    },
+    {
+      "fname": "Manmohan",
+      "lname": "SamoseWala",
+      "email": "SamoseWala@gmail.com",
+      "Status": "Employed",
+      "id": 11
+    },
+    {
+      "fname": "ki ",
+      "lname": "hal ",
+      "email": "chal@gnal.com",
+      "Status": "Currently-Interviewed",
+      "id": 12
+    },
+    {
+      "fname": "Mr.Joshi",
+      "lname": "Pravin",
+      "email": "pravin@gmail.com",
+      "Status": "Employed",
+      "id": 13
+    },
+    {
+      "fname": "raghav",
+      "lname": "shastri",
+      "email": "abc1234@gmail.com",
+      "Status": "Employed",
+      "id": 15
+    },
+    {
+      "fname": "Jaymin",
+      "lname": "Karodia",
+      "email": "jaymmin@gmail.com",
+      "Status": "Ex-Employee",
+      "id": 16
+    }
+  ]
+}
